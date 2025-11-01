@@ -1,2 +1,2 @@
 # python-yolculugum
-Python temellerini attığım projeler.
+Python temel projeler.
